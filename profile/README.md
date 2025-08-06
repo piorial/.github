@@ -21,7 +21,7 @@ We work flexibly — with cash, equity, or both — to empower ambitious founder
 
 ## Founders
 
-<table>
+<table align="center">
   <tr>
     <td align="center"><img src="https://github.com/user-attachments/assets/c8db9d37-d6ea-4c66-a21b-99fd5d315677" width="80px;" alt="Michael Gross"/><br /><sub><b>Michael Gross</b><br/>Technical Strategy</sub></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/83f781f4-ed30-4a5f-80e1-1285992466fc" width="80px;" alt="Henry Bonomolo"/><br /><sub><b>Henry Bonomolo</b><br/>Product Architect</sub></td>
